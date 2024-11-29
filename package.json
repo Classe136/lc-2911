@@ -1,0 +1,16 @@
+{
+  "name": "lc-2911",
+  "version": "1.0.0",
+  "description": "Node Moduli",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Clelia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8"
+  }
+}
